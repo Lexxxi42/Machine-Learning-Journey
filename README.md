@@ -1,14 +1,14 @@
-# 🤖 Machine Learning Track
+# Machine Learning Track
 
 > A complete track on machine learning: from introduction to advanced topics.  
 > Each project is a separate repository with completed assignments.
 
 ## Repositories
 
-| # | Project | Description | Link |
-|---|---------|-------------|------|
-| 01 | **ml-beginner-mod-01** | Binary & multiclass classification, regression, clustering. Overfitting prevention and model evaluation on real user activity data. | [Open](https://github.com/Lexxxi42/ml-beginner-mod-01) |
-| 02 | **ml-beginner-mod-02** | Regularization, hyperparameter tuning with GridSearchCV, advanced evaluation metrics (Precision, Recall, F1, AUC-ROC), ensemble methods (Voting, Bagging, Stacking), and OOP-based ML pipelines. | [Open](https://github.com/Lexxxi42/ml-beginner-mod-02) |
+| # | Project | Description | Link | Stack |
+|---|---------|-------------|------|------|
+| 01 | **ml-module-01** | The project is dedicated to the basics of machine learning and basic data analysis.<br>It helps to understand how to train simple models, master methods of data analysis and processing, as well as their visualization.<br>Within the project, it is necessary to create regression models to predict the price of renting an apartment based on the description of the ad, photos, number of bedrooms and other characteristics.<br><br>At the end, a comparative analysis of models is carried out by metrics MAE and RMSE. | [Open](https://github.com/Lexxxi42/ml-module-01) | Numpy, Pandas, Seaborn, Matplotlib, Sci-kit learn |
+| 02 | **ml-module-02** | The project is dedicated to the implementation of linear models in machine learning, in particular: <ul><li>linear regression (analytical method and using stochastic gradient descent);</li><li>regularization methods (L1, L2, ElasticNet)</li></ul>Study of the problems of overfitting and underfitting of models.<br>A comparative analysis of the built models by metrics: MSE, MAE, MAPE, R2.<br><br>The goal of the project is to gain a deep understanding of how linear models work for solving regression problems, learn how to implement them in Python, evaluate their quality, and deal with overfitting. | [Open](https://github.com/Lexxxi42/ml-module-02) | Numpy, Pandas, Seaborn, Matplotlib, Sci-kit learn |
 
 ## Tech Stack
 
@@ -25,5 +25,6 @@
 
 | # | Project | Status |
 |---|---------|--------|
-| 01 | ml-beginner-mod-01 | ✅ Completed |
-| 02 | ml-beginner-mod-02 | 🔄 In progress |
+| 01 | ml-module-01 | ✅ Completed |
+| 02 | ml-module-02 | ✅ Completed |
+| 02 | ml-module-03 | 🔄 In progress |
