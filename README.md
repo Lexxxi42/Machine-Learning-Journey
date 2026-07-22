@@ -27,13 +27,13 @@
 |---|---------|--------|
 | 01 | ml-module-01 | ✅ Completed |
 | 02 | ml-module-02 | ✅ Completed |
-| 02 | ml-module-03 | 🔄 In progress |
-| 02 | ml-module-04 | 🕑 Waiting |
-| 02 | ml-module-05 | 🕑 Waiting |
-| 02 | ml-module-06 | 🕑 Waiting |
-| 02 | ml-module-07 | 🕑 Waiting |
-| 02 | ml-module-08 | 🕑 Waiting |
-| 02 | ml-module-09 | 🕑 Waiting |
-| 02 | ml-module-10 | 🕑 Waiting |
-| 02 | ml-module-11 | 🕑 Waiting |
-| 02 | ml-module-12 | 🕑 Waiting |
+| 03 | ml-module-03 | 🔄 In progress |
+| 04 | ml-module-04 | 🕑 Waiting |
+| 05 | ml-module-05 | 🕑 Waiting |
+| 06 | ml-module-06 | 🕑 Waiting |
+| 07 | ml-module-07 | 🕑 Waiting |
+| 08 | ml-module-08 | 🕑 Waiting |
+| 09 | ml-module-09 | 🕑 Waiting |
+| 10 | ml-module-10 | 🕑 Waiting |
+| 11 | ml-module-11 | 🕑 Waiting |
+| 12 | ml-module-12 | 🕑 Waiting |
