@@ -28,3 +28,12 @@
 | 01 | ml-module-01 | ✅ Completed |
 | 02 | ml-module-02 | ✅ Completed |
 | 02 | ml-module-03 | 🔄 In progress |
+| 02 | ml-module-04 | 🕑 Waiting |
+| 02 | ml-module-05 | 🕑 Waiting |
+| 02 | ml-module-06 | 🕑 Waiting |
+| 02 | ml-module-07 | 🕑 Waiting |
+| 02 | ml-module-08 | 🕑 Waiting |
+| 02 | ml-module-09 | 🕑 Waiting |
+| 02 | ml-module-10 | 🕑 Waiting |
+| 02 | ml-module-11 | 🕑 Waiting |
+| 02 | ml-module-12 | 🕑 Waiting |
